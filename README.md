@@ -34,9 +34,6 @@ Ensure you have the following installed:
 - Maven
 - An IDE such as IntelliJ IDEA or Eclipse
 
-### Setup
+### Create Your Setup
 
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/Selenium_Project_Page_Object_Model.git
+ 
