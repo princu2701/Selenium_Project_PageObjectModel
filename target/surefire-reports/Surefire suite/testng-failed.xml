@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="PageWorks.ScenariosFinal">
+        <methods>
+          <include name="scenario8"/>
+          <include name="scenario6"/>
+          <include name="scenario9"/>
+          <include name="scenario11"/>
+          <include name="donereporting"/>
+          <include name="scenario3"/>
+          <include name="scenario4"/>
+          <include name="scenario7"/>
+          <include name="scenario2"/>
+          <include name="scenario5"/>
+          <include name="selection"/>
+          <include name="setup"/>
+          <include name="report"/>
+          <include name="end"/>
+          <include name="scenario10"/>
+        </methods>
+      </class> <!-- PageWorks.ScenariosFinal -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
