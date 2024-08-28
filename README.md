@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Selenium_Project_Page_Object_Model** is a Selenium-based testing framework that utilizes the Page Object Model (POM) design pattern for robust and maintainable test automation. This project is designed to automate the testing of a website's shopping section, specifically focusing on the Car and Bike Accessories categories.
+**Selenium_Project_PageObjectModel** is a Selenium-based testing framework that utilizes the Page Object Model (POM) design pattern for robust and maintainable test automation. This project is designed to automate the testing of a website's shopping section, specifically focusing on the Car and Bike Accessories categories.
 
 ## Features
 
@@ -34,6 +34,9 @@ Ensure you have the following installed:
 - Maven
 - An IDE such as IntelliJ IDEA or Eclipse
 
-### Create Your Setup
+### Setup
 
- 
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/princu2701/Selenium_Project_PageObjectModel.git
